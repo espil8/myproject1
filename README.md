@@ -73,32 +73,29 @@
 
 ## 📁 Δομή Project
 myproject1/
-├─ README.md
-├─ students/
-│   ├─ admin/
-│   │   ├─ create_user.php
-│   │   ├─ home.php
-│   │   ├─ sections.php
-│   │   └─ view_users.php
-│   │
-│   ├─ uploads/
-│   │   └─ labs/
-│   │
-│   ├─ dashboard.php
-│   ├─ forgot_password.php
-│   ├─ functions.php
-│   ├─ grades.php
-│   ├─ index.php
-│   ├─ lab.php
-│   ├─ login.php
-│   ├─ register.php
-│   ├─ register_lab.php
-│   ├─ reset_password.php
-│   └─ style.css
-│
-├─ SQL/
-│   └─ m_users.sql
-├─ screenshots/
+    README.md
+    students/
+        admin/
+            create_user.php
+            home.php
+            sections.php
+            view_users.php
+        uploads/
+            labs/
+        dashboard.php
+        forgot_password.php
+        functions.php
+        grades.php
+        index.php
+        lab.php
+        login.php
+        register.php
+        register_lab.php
+        reset_password.php
+        style.css
+    SQL/
+        m_users.sql
+    screenshots/
 
 
 ## ⚙ Οδηγίες Εγκατάστασης
