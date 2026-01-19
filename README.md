@@ -73,7 +73,6 @@
 
 ## 📁 Δομή Project
 myproject1/
-│
 ├─ README.md
 ├─ students/
 │   ├─ admin/
